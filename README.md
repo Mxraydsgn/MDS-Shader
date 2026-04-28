@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_7r-SiWezrQ">
+    <img src="src/weapon.jpg" width="800">
+  </a>
+</p>
+
 **New UI addon that automatically downloads textures to models from the _CALL OF DUTY_ series of games.**
 
 <p align="center">
