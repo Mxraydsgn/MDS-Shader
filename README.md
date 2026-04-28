@@ -20,6 +20,9 @@
 
 **New UI addon that automatically downloads textures to models from the _CALL OF DUTY_ series of games.**
 
+The addon has a "DirectX/OpenGL" slider. It controls how you export the normal map using the "SALUKI" program. 
+- If you use DirectX, set the value to 0. 
+- If you use OpenGL, set the value to 1.
 <p align="center">
   <img src="src/1tutor.jpg" width="1000">
 </p>
