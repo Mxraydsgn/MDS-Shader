@@ -29,7 +29,7 @@ The addon has a "DirectX/OpenGL" slider. It controls how you export the normal m
 
 > [!NOTE]
 > No need to convert textures, leave them as they are. <br>
-> The add-on has a customized version of shaders. [*If you want, you can download the shader here.*](https://github.com/Mxraydsgn/Mxray-cod-shader)<br>
+> The add-on has a customized version of shaders.
 > The add-on currently only works with the following game series:
 > - Modern Warfare 2019
 > - Modern Warfare II/III
