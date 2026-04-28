@@ -4,6 +4,8 @@
 
 # MDS SHADER
 *ADDON AUTOSHADER FOR BLENDER <sup>Created by Mxray Design*</sup>
+
+*Recommended Blender version: 5.0.1 and above*
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hpri0gLGo-Y">
     <img src="src/123.jpg" width="800">
