@@ -6,7 +6,7 @@
 *ADDON AUTOSHADER FOR BLENDER <sup>Created by Mxray Design*</sup>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=hpri0gLGo-Y">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="600">
+    <img src="src/123.png" width="600">
   </a>
 </p>
 
