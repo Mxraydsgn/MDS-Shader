@@ -35,6 +35,9 @@ The addon has a "DirectX/OpenGL" slider. It controls how you export the normal m
 > - Modern Warfare II/III
 > - Black Ops 6/7
 
+## ALL NODES:
+<img src="src/nodes.jpg" width="1000"/>
+
 > [!WARNING]
 > The add-on only works with images in (.tiff .dds .png .tga) format and (.cast) models.
 > 
