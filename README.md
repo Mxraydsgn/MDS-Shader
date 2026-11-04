@@ -58,3 +58,6 @@ The addon has a "DirectX/OpenGL" slider. It controls how you export the normal m
 - [Steam](https://steamcommunity.com/id/dilifamusic/)
 - [Instagram](https://www.instagram.com/prod.dilifa/)
 - Discord: DILIFA
+
+## MDS SHADER V2 NEW TUTORIAL
+<img src="src/v2info.png" width="1000"/>
